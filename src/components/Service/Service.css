@@ -1,0 +1,12 @@
+.card-custom {
+    background-color: #222;
+    min-height: 700px;
+    color: white;
+    border: transparent;
+    border-radius: 10px;
+}
+
+.card-custom img {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}

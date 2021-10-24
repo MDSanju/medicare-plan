@@ -1,0 +1,16 @@
+.about-container {
+    margin-top: 100px;
+    text-align: left;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+
+.contents-container {
+    margin-top: 35px;
+    font-size: 18px;
+}
+
+.contents-container img {
+    width: 50%;
+    margin-top: 15px;
+}

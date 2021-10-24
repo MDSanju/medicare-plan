@@ -1,0 +1,55 @@
+[{
+        "id": 1,
+        "image": "https://i.ibb.co/8cXqf9H/nursing09.png",
+        "name": "Laser Surgery",
+        "description": "Laser treatment is used to slow the growth of new blood vessels at the retina. This treatment is suitable for proliferative diabetic retinopathy and to stabilise cases of maculopathy."
+    },
+    {
+        "id": 2,
+        "image": "https://i.ibb.co/0ysDwkr/nursing08.png",
+        "name": "Mental Health Nursing",
+        "description": "Mental health nursing, also known as psychiatric nursing, is a specialized field of nursing practice that involves the care of individuals with a mental health disorder to help them recover and improve their quality of life."
+    },
+    {
+        "id": 3,
+        "image": "https://i.ibb.co/tbGtCCP/nursing07.png",
+        "name": "Cataract Surgery",
+        "description": "Cataract surgery involves replacing the cloudy lens inside your eye with an artificial one. It has a high success rate in improving your eyesight. It can take 2 to 6 weeks to fully recover from cataract surgery."
+    },
+    {
+        "id": 4,
+        "image": "https://i.ibb.co/SB9JDHZ/nursing06.png",
+        "name": "Gastric Bypass",
+        "description": "Gastric bypass is surgery that helps you lose weight by changing how your stomach and small intestine handle the food you eat. After the surgery, your stomach will be smaller. You will feel full with less food."
+    },
+    {
+        "id": 5,
+        "image": "https://i.ibb.co/DWyLthm/nursing05.png",
+        "name": "Health and Diet",
+        "description": "A healthy diet is essential for good health and nutrition. It protects you against many chronic noncommunicable diseases, such as heart disease, diabetes and cancer."
+    },
+    {
+        "id": 6,
+        "image": "https://i.ibb.co/3sbNb6B/nursing04.png",
+        "name": "Chemotherapy",
+        "description": "Chemotherapy is a cancer treatment where medicine is used to kill cancer cells. There are many different types of chemotherapy medicine, but they all work in a similar way."
+    },
+    {
+        "id": 7,
+        "image": "https://i.ibb.co/19VF05c/nursing03.png",
+        "name": "COVID-19 vaccine",
+        "description": "Like any vaccine, COVID-19 vaccines can cause mild, short term side effects, such as a low-grade fever or pain or redness at the injection site."
+    },
+    {
+        "id": 8,
+        "image": "https://i.ibb.co/YhCsJ6r/nursing02.png",
+        "name": "Open-Heart Surgery",
+        "description": "Coronary-artery bypass surgery is the most common open-heart surgery in the U.S. It is used to treat heart disease by rerouting blood around a blockage."
+    },
+    {
+        "id": 9,
+        "image": "https://i.ibb.co/9gxCzFP/nursing01.png",
+        "name": "Liver Function Tests",
+        "description": "Liver function tests, also referred to as a hepatic panel, are groups of blood tests that provide information about the state of a patient's liver."
+    }
+]
