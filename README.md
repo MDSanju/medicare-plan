@@ -2,19 +2,21 @@
 
 This website about a health care center or sort of a hospital: [website_link](https://medicare-plan.web.app/).
 
-## About This Website
-
-High-quality health care helps prevent diseases and improve quality of life. Everybody should be aware about quality health care. Helping health care providers communicate more effectively can help improve health and well-being. We are absolutely make-sure the quality health care for each and every single person from our "Medicare Plan". Also these kinds of serving below, you could get from "Medicare Plan":
 
 
-## Website Technical Features:
+## FEATURES:
 
-1. Front end development with React.js.
+1. This is a hospital website where users can get information about hospital services and also can get more health guidelines or tips.
 
-2. Firebase password-based & Google authentication system implemented with react custom hooks.
+2. Users can do registration to create a new account, and registered users can log in by placing an email & password or using the "sign in with google" button.
 
-3. React, react-router, private route, API calls & context API have been used in this project.
+3. Having logged in, users will see detailed information about hospital services and also see a logout button for logging out.
 
-4. 100% responsive website for all screen size.
+4. Users will see two more pages having logged in, (1) About Us, (2) Health Tips.
 
-5. Deploy the website on firebase hosting.
+5. This website is 100% responsive for all screen size.
+
+
+## TECHNOLOGY USED:
+
+React, context API, custom hooks, Bootstrap, CSS3, Firebase password-based & google authentication
