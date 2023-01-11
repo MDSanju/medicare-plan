@@ -6,6 +6,7 @@ import "./Services.css";
 const Services = () => {
   // use state hook
   const [services, setServices] = useState([]);
+  console.log(services);
 
   // call data by doing fetch
   useEffect(() => {
